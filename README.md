@@ -1,11 +1,11 @@
 # ICO
 
 ![ICO image](./pic//ICO.jpg)
-An initial coin offering (ICO) is a way for cryptocurrency startups to raise capital. Here's how it works:\
+An initial coin offering (ICO) is a way for cryptocurrency startups to raise capital. Here's how it works:
 
-- The startup creates a new digital token or digital currency.\
-- They offer these tokens to early investors in exchange for well-known cryptocurrencies such as Bitcoin or Ethereum.\
-- ICOs allow startups to raise capital without giving up their shares, and investors hope that the value of the token will increase if the project is successful.\
+- The startup creates a new digital token or digital currency.
+- They offer these tokens to early investors in exchange for well-known cryptocurrencies such as Bitcoin or Ethereum.
+- ICOs allow startups to raise capital without giving up their shares, and investors hope that the value of the token will increase if the project is successful.
   In this app, you can easily create an ESO for your token
 
 ## Clone Repository
